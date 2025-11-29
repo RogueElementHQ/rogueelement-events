@@ -5,7 +5,7 @@
     "end": null,
     "description": "Our First Ever Rogue Element Movie Night is coming up on Sunday, November 30, 2025 🍿🔥\n\nWe’ll be sitting back, relaxing, and watching “Warfare” together as a community.\n\nBring your snacks, grab a drink, and come hang out with the squad for a chill evening off the battlefield.\n\nSee you there, Operators. 🎥\n🫡\n\n𓆩Я•Σ𓆪 Command Staff",
     "location": "",
-    "type": "community"
+    "type": 1
   },
   {
     "title": "SATURDAY TRAINING [ᴍᴇᴍʙᴇʀꜱ ᴏɴʟʏ]",
@@ -13,30 +13,6 @@
     "end": null,
     "description": "Game: [**GROUND BRANCH**]\n\n🎓 Training Event This Saturday\n\nOperators, we’ll be running an official Rogue Element Training Session this Saturday to sharpen our communication, coordination, and tactical flow as a community.\n\nThis session will focus on:\n✔ Comms discipline\n✔ Movement & teamwork\n✔ Room entry fundamentals\n✔ Overall unit cohesion\n\n📅\n\n Saturday, Nov 29th\n⏰<t:1764460800:R>",
     "location": "",
-    "type": "training"
-  },
-  {
-    "title": "test",
-    "start": 1764374400594,
-    "end": null,
-    "description": "test",
-    "type": 0,
-    "location": ""
-  },
-  {
-    "title": "test",
-    "start": 1764378000706,
-    "end": null,
-    "description": "test",
-    "type": 0,
-    "location": ""
-  },
-  {
-    "title": "TEST",
-    "start": 1764810000000,
-    "end": null,
-    "description": "TEST",
-    "type": 0,
-    "location": ""
+    "type": 2
   }
 ]
